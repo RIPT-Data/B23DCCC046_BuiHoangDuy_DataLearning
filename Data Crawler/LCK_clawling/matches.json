@@ -1,0 +1,72 @@
+[
+    {
+        "team1_name": "DK",
+        "ratio": "2-1",
+        "team2_name": "HLE",
+        "time": "15:00",
+        "date": "12-Thg6"
+    },
+    {
+        "team1_name": "NS",
+        "ratio": "1-2",
+        "team2_name": "FOX",
+        "time": "17:30",
+        "date": "Same Date With Above Match"
+    },
+    {
+        "team1_name": "KT",
+        "ratio": "0-2",
+        "team2_name": "KDF",
+        "time": "15:00",
+        "date": "13-Thg6"
+    },
+    {
+        "team1_name": "BRO",
+        "ratio": "1-2",
+        "team2_name": "DRX",
+        "time": "17:30",
+        "date": "Same Date With Above Match"
+    },
+    {
+        "team1_name": "GEN",
+        "ratio": "2-0",
+        "team2_name": "FOX",
+        "time": "15:00",
+        "date": "14-Thg6"
+    },
+    {
+        "team1_name": "T1",
+        "ratio": "2-0",
+        "team2_name": "NS",
+        "time": "17:30",
+        "date": "Same Date With Above Match"
+    },
+    {
+        "team1_name": "BRO",
+        "ratio": "1-2",
+        "team2_name": "KDF",
+        "time": "13:00",
+        "date": "15-Thg6"
+    },
+    {
+        "team1_name": "KT",
+        "ratio": "1-2",
+        "team2_name": "DK",
+        "time": "15:30",
+        "date": "Same Date With Above Match"
+    },
+    {
+        "team1_name": "HLE",
+        "ratio": "2-1",
+        "team2_name": "DRX",
+        "time": "13:00",
+        "date": "16-Thg6"
+    },
+    {
+        "team1_name": "GEN",
+        "ratio": "2-0",
+        "team2_name": "T1",
+        "time": "15:30",
+        "date": "Same Date With Above Match"
+    }
+]
